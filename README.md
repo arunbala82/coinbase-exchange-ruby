@@ -1,3 +1,5 @@
+# My second comment
+
 # My comment
 
 # Coinbase Pro Ruby library

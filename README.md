@@ -1,3 +1,5 @@
+# My comment
+
 # Coinbase Pro Ruby library
 
 __Note:__ This library isn't actively maintained.
